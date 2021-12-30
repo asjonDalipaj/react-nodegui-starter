@@ -13,8 +13,12 @@
   },
   "dependencies": {
     "@nodegui/react-nodegui": "^0.10.2",
+    "express": "^4.17.1",
     "open": "^7.2.1",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "sequelize": "^7.0.0-alpha.2",
+    "sqlite3": "^5.0.2",
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
